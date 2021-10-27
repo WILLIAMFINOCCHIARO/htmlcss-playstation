@@ -10,6 +10,10 @@
   height: 100%;
 }
 
+.container {
+  height: 100%;
+}
+
 
 header .header-top {
   height: 50px;
@@ -21,10 +25,17 @@ header .nav-bar {
 }
 
 
+
+
 /* debug */
 
 .debug .box  {
   background-color: orange;
   width:100px;
   height: 100%;
+}
+
+.debug .jumbotron {
+  height: 520px;
+  background-color: orangered;
 }
