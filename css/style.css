@@ -16,9 +16,8 @@ header .header-top {
   background-color: #000000;
 }
 
-header .header-bottom {
+header .nav-bar {
   height: 150px;
-  background-color: #ffffff;
 }
 
 
@@ -26,6 +25,6 @@ header .header-bottom {
 
 .debug .box  {
   background-color: orange;
-  width:200px;
+  width:100px;
   height: 100%;
 }
