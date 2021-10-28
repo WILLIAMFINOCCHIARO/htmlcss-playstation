@@ -11,7 +11,7 @@
 }
 
 
-header .header-top {
+header #header-top {
   height: 50px;
   background-color: #000000;
 }
@@ -28,12 +28,18 @@ header .nav-bar {
 
 .debug.box  {
   background-color: orange;
-  width:100%;
+  width:100px;
   height: 100%;
 }
 
-.debug .jumbotron,
-.debug .secondsection {
+.debug #jumbotron,
+.debug #secondsection {
   height: 520px;
   background-color: orangered;
+}
+
+.debug .color {
+  height: 100px;
+  background-color: violet;
+  border: 1px solid black;
 }
