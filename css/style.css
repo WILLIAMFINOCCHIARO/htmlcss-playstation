@@ -20,7 +20,13 @@ header .nav-bar {
   height: 150px;
 }
 
+main #now {
+  background-color: #161c3b;
+}
 
+footer {
+  background-color: #00439c;
+}
 
 
 /* debug */
