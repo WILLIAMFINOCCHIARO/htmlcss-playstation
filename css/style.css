@@ -11,6 +11,9 @@
 }
 
 
+
+/* header */
+
 header #header-top {
   height: 50px;
   background-color: #000000;
@@ -19,6 +22,24 @@ header #header-top {
 header .nav-bar {
   height: 150px;
 }
+
+#header-top .row img {
+  height: 20px;
+}
+
+.nav-bar .collapse .button {
+  background-color: #363636;
+}
+
+
+/* header */
+
+/* navbar */
+
+
+
+
+/* //navbar */
 
 main #now {
   background-color: #161c3b;
