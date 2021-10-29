@@ -34,12 +34,22 @@ header .nav-bar {
 
 /* header */
 
-/* navbar */
+/* jumbotron */
+#jumbotron {
+  background-image: url(../img/jumbo-bg.png);
+  background-position:center;
+  background-size: cover;
+}
 
+#jumbotron .card-title {
+  font-size:3rem;
+}
 
+#jumbotron .btn {
+  background-color: #cd3d0f;
+}
 
-
-/* //navbar */
+/* //jumbotron */
 
 main #now {
   background-color: #161c3b;
@@ -62,7 +72,7 @@ footer {
 .debug #jumbotron,
 .debug #secondsection {
   height: 520px;
-  background-color: orangered;
+  /* background-color: orangered; */
 }
 
 .debug .color {
