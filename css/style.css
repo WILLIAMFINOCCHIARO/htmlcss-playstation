@@ -51,9 +51,24 @@ header .nav-bar {
 
 /* //jumbotron */
 
+/* main */
+
+/* firstsection */
+
+
+
+/* //first section */
 main #now {
   background-color: #161c3b;
 }
+
+main .firstsection img {
+  border-radius: 20px;
+
+}
+
+/* //main */
+
 
 footer {
   background-color: #00439c;
