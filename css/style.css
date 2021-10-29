@@ -70,6 +70,7 @@ main .firstsection img {
   border-radius: 20px;
 }
 
+/* secondsection */
 #secondsection {
   height: 520px;
   background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
@@ -83,6 +84,12 @@ main .firstsection img {
 
 #secondsection .card-title {
   font-size: 35px;
+}
+
+
+/* thirdsection */
+#thirdsection {
+  background-color: #1f1f1f;
 }
 
 /* //main */
