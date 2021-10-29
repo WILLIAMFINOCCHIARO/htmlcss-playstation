@@ -36,6 +36,7 @@ header .nav-bar {
 
 /* jumbotron */
 #jumbotron {
+  height: 520px;
   background-image: url(../img/jumbo-bg.png);
   background-position:center;
   background-size: cover;
@@ -45,7 +46,10 @@ header .nav-bar {
   font-size:3rem;
 }
 
-#jumbotron .btn {
+
+
+#jumbotron .btn,
+#secondsection .btn {
   background-color: #cd3d0f;
 }
 
@@ -64,7 +68,21 @@ main #now {
 
 main .firstsection img {
   border-radius: 20px;
+}
 
+#secondsection {
+  height: 520px;
+  background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+#secondsection img {
+  width: 40%;
+}
+
+#secondsection .card-title {
+  font-size: 35px;
 }
 
 /* //main */
@@ -84,11 +102,6 @@ footer {
   height: 100%;
 }
 
-.debug #jumbotron,
-.debug #secondsection {
-  height: 520px;
-  /* background-color: orangered; */
-}
 
 .debug .color {
   height: 100px;
