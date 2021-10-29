@@ -66,7 +66,8 @@ main #now {
   background-color: #161c3b;
 }
 
-main .firstsection img {
+main #firstsection img,
+main #thirdsection img{
   border-radius: 20px;
 }
 
