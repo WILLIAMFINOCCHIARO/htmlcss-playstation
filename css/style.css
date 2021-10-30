@@ -67,7 +67,7 @@ main #now {
 }
 
 main #firstsection img,
-main #thirdsection img{
+main #thirdsection img {
   border-radius: 20px;
 }
 
@@ -107,18 +107,30 @@ main #thirdsection img{
   background-color: #d9dadc;
 }
 
+/* sixsection */
+
+main #sixsection:nth-child(3) {
+  background-color: #161c3b;
+}
+
+/* //sixsection */
+
 /* //main */
 
+/* footer */
 
 footer {
   background-color: #00439c;
 }
 
 
+
+/* //footer */
+
 /* debug */
 
 
-.debug.box  {
+/* .debug.box  {
   background-color: orange;
   width:100px;
   height: 100%;
@@ -129,4 +141,4 @@ footer {
   height: 100px;
   background-color: violet;
   border: 1px solid black;
-}
+} */
