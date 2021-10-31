@@ -10,6 +10,10 @@
   height: 100%;
 }
 
+.f {
+  font-weight: 600;
+}
+
 
 
 /* header */
@@ -69,6 +73,11 @@ main #now {
 main #firstsection img,
 main #thirdsection img {
   border-radius: 20px;
+}
+
+main #firstsection img:hover {
+  border: 5px solid #1b80d2;
+  padding: 3px;
 }
 
 /* secondsection */
