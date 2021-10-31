@@ -61,14 +61,12 @@ header .nav-bar {
 
 /* main */
 
-/* firstsection */
 
-
-
-/* //first section */
 main #now {
   background-color: #161c3b;
 }
+
+/* firstsection */
 
 main #firstsection img,
 main #thirdsection img {
@@ -79,6 +77,13 @@ main #firstsection img:hover {
   border: 5px solid #1b80d2;
   padding: 3px;
 }
+
+main #bor img:hover{
+  border:0;
+  border-bottom: 5px solid #1b80d2;
+}
+
+/* //first section *
 
 /* secondsection */
 #secondsection {
