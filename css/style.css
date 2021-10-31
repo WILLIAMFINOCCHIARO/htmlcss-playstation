@@ -73,13 +73,12 @@ main #thirdsection img {
   border-radius: 20px;
 }
 
-main #firstsection img:hover {
+main #hover img:hover {
   border: 5px solid #1b80d2;
   padding: 3px;
 }
 
-main #bor img:hover{
-  border:0;
+main #bor.col-4:hover{
   border-bottom: 5px solid #1b80d2;
 }
 
