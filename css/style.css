@@ -110,8 +110,13 @@ main #bor.col-4:hover{
 
 /* fifthsection */
 #fifthsection  {
-  height: 300px;
   background-color:#bebcbb;
+}
+
+
+#fifthsection .row #image-bgc {
+  background-image:url(../img/ps-plus-april-monthly-games-featured-image-block.png) ;
+  background-size: 100% 100%;
 }
 
 
@@ -122,11 +127,18 @@ main #bor.col-4:hover{
 
 /* sixsection */
 
-main #sixsection:nth-child(3) {
+main #post-sixsection {
   background-color: #161c3b;
 }
 
+#second-image-bgc {
+  background-image: url(../img/ps-now-april-featured-image-block.png);
+  background-size: 100% 100%;
+}
+
 /* //sixsection */
+
+
 
 /* //main */
 
